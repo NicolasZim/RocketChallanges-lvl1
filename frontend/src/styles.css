@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+div {
+  width: 100%;
+  margin: 20px;
+}
+
+div li {
+  display: flex;
+  align-items: center;
+}
+
+/* div li + li {
+  margin-left: 15px;
+} */
+
+button {
+  background: #7159c1;
+  color: #fff;
+  border: 0;
+  padding: 10px 15px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+div li button {
+  margin: 0 15px;
+  background: #ca4949;
+}
+
+input {
+  height: 40px;
+  border-radius: 12px;
+  border: 2px #7159c1 solid;
+  padding: 0 16px;
+  color: #7159c1;
+  font-size: 18px;
+  max-width: 150px;
+}
+
+.section__create, .section__list {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+form {
+  max-width: 600px;
+}
+section form {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section form > input:nth-child(1),
+section form > input:nth-child(2) {
+  min-width: 40%;
+  margin-top: 12px;
+  margin-left: 18px;
+}
+
+section form .input-group {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+section form button {
+  margin-left: auto;
+}
+
+section form .input-group input {
+  position: relative;
+  min-width: 300px;
+}
+section form .input-group svg {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+section form .input-group svg:hover {
+  color: rgba(113, 89, 193, .5);
+}
+
+section form .new-repoList {
+  align-items: center;
+  min-width: 70%;
+  max-width: 70%;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+section form .new-repoList .new-repoItem {
+  color: #7159c1;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+  font-family: 'Times New Roman', Times, sans-serif!important;
+  margin-left: 18px;
+}
+
+section form .new-repoList .new-repoItem:before {
+  content: "*";
+}
+
+.section__list .repo-list .repo-item {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.section__list .repo-list {
+  max-width: 900px;
+}
+
+.section__list .repo-list .repo-item > section {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 26px;
+  margin-top: 26px;
+}
+
+.section__list .repo-list .repo-item > section .title {
+  font-size: 26px;
+  color: #7159c1;
+  font-weight: bold;
+  margin-right: 12px;
+}
+
+.section__list .repo-list .repo-item > section p {
+  font-size: 20px;
+  color: #7159c1;
+}
+
+.section__list .repo-list .repo-item > :nth-child(1)  {
+  width: 40%;
+}
+
+.section__list .repo-list .repo-item > :nth-child(2)  {
+  width: 40%;
+}
+
+.section__list .repo-list .repo-item > :nth-child(3)  {
+  width: 40%;
+}
+
+.section__list .repo-list .repo-item > :nth-child(4) {
+  align-items: center;
+  display: flex;
+  width: 15%;
+}
+
+
