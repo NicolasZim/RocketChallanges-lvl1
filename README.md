@@ -15,17 +15,18 @@
   </a>
 
 <p align="center">
-  <a href="#-tecnologias">📚 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🔥 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">📁 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend">👩‍💻 Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">💻 Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-mobile">📱 Mobile</a>
 </p>
 
 
 </p>
 
-## 📚 Tecnologias
+
+## 🔥 Tecnologias
 
 Neste projeto foi utilizado as seguintes tecnologias:
 
@@ -37,8 +38,10 @@ Neste projeto foi utilizado as seguintes tecnologias:
 - [Uuidv4](https://github.com/thenativeweb/uuidv4)
 - [Insomnia](https://github.com/Kong/insomnia)
 
+
 ## 📁 Projeto
 O projeto tem como objetivo testar as minhas habilidades fazendo os desafios da RocketSeat. Utilizando Uuids na criação de repositórios, usando API com Axios, emulando um android via Android Studio e construindo o frontend e mobile com React e ReactNative. Também utilizando Insomnia para testar os endpoints e utilizando testes automatizados.
+
 
 ## 👩‍💻 Backend
 - Cria repositórios
@@ -47,13 +50,16 @@ O projeto tem como objetivo testar as minhas habilidades fazendo os desafios da 
 - Edita repositórios
 - Adiciona um like ao repositório
 
+
 ## 💻 Frontend
 - Lista repositórios
 - Permite edição
 
+
 ## 📱 Mobile
 - Lista repositórios
 - Permite dar likes em repositórios
+
 
 
 <p align="center">by Nicolas Zim</p>
