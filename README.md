@@ -1,5 +1,5 @@
 <h1 align="center">
-    # Desafios RocketSeat - Level 1
+    Desafios RocketSeat - Level 1
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/NicolasZim/RocketChallanges-lvl1">
@@ -15,11 +15,11 @@
   </a>
 
 <p align="center">
-  <a href="#tecnologias">📚 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">📁 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#backend">👩‍💻 Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#frontend">💻 Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">📚 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">📁 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-backend">👩‍💻 Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-frontend">💻 Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -40,14 +40,14 @@ Neste projeto foi utilizado as seguintes tecnologias:
 ## 📁 Projeto
 O projeto tem como objetivo testar as minhas habilidades fazendo os desafios da RocketSeat. Utilizando Uuids na criação de repositórios, usando API com Axios, emulando um android via Android Studio e construindo o frontend e mobile com React e ReactNative. Também utilizando Insomnia para testar os endpoints e utilizando testes automatizados.
 
-## 👩‍💻 BackEnd
+## 👩‍💻 Backend
 - Cria repositórios
 - Lista repositórios
 - Deleta repositórios
 - Edita repositórios
 - Adiciona um like ao repositório
 
-## 💻 FrontEnd
+## 💻 Frontend
 - Lista repositórios
 - Permite edição
 
